@@ -1,5 +1,7 @@
 ### Hey! 👋
-
+I'm ed789d0. Here's some of the GitHub organizations I contribute to:
+* [Mathgens](https://mathgens.github.io)
+* [Team Gigabyte](https://team-gigabyte.github.io)
 <!--
 **ed789d0/ed789d0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ed789d0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ed789d0&layout=compact&theme=merko#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ed789d0&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
