@@ -1,7 +1,4 @@
-### Hey! 👋
-I'm ed789d0. Here's some of the GitHub organizations I contribute to:
-* [Mathgens](https://mathgens.github.io)
-* [Team Gigabyte](https://team-gigabyte.github.io)
+
 <!--
 **ed789d0/ed789d0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
